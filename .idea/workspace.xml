@@ -7,13 +7,45 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YTSkDcP4TuqUnP3O3hQm7QGJ8l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.amanda.sample.Application" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amanda.sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -29,10 +61,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="618" y="190" key="SettingsEditor" timestamp="1582965289266">
+    <state x="552" y="178" key="#Notifications" timestamp="1582968060290">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="618" y="190" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582965289266" />
+    <state x="552" y="178" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1582968060290" />
+    <state x="854" y="210" key="#com.intellij.ide.util.MemberChooser" timestamp="1582971248183">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="854" y="210" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582971248183" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1582971275040">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582971275040" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1582971275040">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582971275040" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1582971275040">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582971275040" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1582971275040">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582971275040" />
+    <state x="618" y="190" key="SettingsEditor" timestamp="1582967473327">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="618" y="190" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582967473327" />
     <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1582965247991">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
