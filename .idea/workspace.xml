@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f43c2cd-eefa-4f0d-9bc3-51500427fe73" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YTSkDcP4TuqUnP3O3hQm7QGJ8l" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f43c2cd-eefa-4f0d-9bc3-51500427fe73" name="Default Changelist" comment="" />
+      <created>1582965233091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582965233091</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="618" y="190" key="SettingsEditor" timestamp="1582965289266">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="618" y="190" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582965289266" />
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1582965247991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582965247991" />
+  </component>
+</project>
